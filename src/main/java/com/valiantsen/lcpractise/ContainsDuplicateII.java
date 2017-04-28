@@ -11,7 +11,7 @@ import java.util.Set;
  * 
  * @ClassName: ContainsDuplicateII
  * @Description: TODO(这里用一句话描述这个类的作用)
- * @author zhangyasen@didichuxing.com
+ * 
  * @date 2017年4月27日
  */
 public class ContainsDuplicateII {
