@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main.java.com.valiantsen.lcpractise;
+package main.java.com.valiantsen.lcpractise.array;
 
 import java.util.ArrayList;
 import java.util.List;

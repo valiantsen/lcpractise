@@ -1,4 +1,4 @@
-package main.java.com.valiantsen.lcpractise;
+package main.java.com.valiantsen.lcpractise.array;
 
 /**
  * Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.

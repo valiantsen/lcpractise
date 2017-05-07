@@ -1,4 +1,4 @@
-package main.java.com.valiantsen.lcpractise;
+package main.java.com.valiantsen.lcpractise.array;
 
 import java.util.HashMap;
 import java.util.Map;

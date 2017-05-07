@@ -1,4 +1,4 @@
-package main.java.com.valiantsen.lcpractise;
+package main.java.com.valiantsen.lcpractise.array;
 
 /**
  * In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different

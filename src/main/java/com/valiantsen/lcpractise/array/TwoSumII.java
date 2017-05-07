@@ -1,4 +1,4 @@
-package main.java.com.valiantsen.lcpractise;
+package main.java.com.valiantsen.lcpractise.array;
 
 public class TwoSumII {
     public int[] twoSum(int[] numbers, int target) {

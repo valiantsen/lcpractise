@@ -1,4 +1,4 @@
-package main.java.com.valiantsen.lcpractise;
+package main.java.com.valiantsen.lcpractise.array;
 
 public class RemoveElement {
 	public int removeElement(int[] nums, int val) {
