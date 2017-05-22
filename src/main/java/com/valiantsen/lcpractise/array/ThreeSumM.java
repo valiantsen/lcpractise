@@ -55,6 +55,6 @@ public class ThreeSumM {
         ThreeSumM m = new ThreeSumM();
         int[] a = { -1, 0, 1, 2, -1, -4 };
         List<List<Integer>> l = m.threeSum(a);
-        System.out.println();
+        System.out.println(l.size());
     }
 }
