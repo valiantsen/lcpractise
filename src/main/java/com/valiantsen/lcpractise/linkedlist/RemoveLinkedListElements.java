@@ -1,6 +1,5 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
-import main.java.com.valiantsen.lcpractise.linkedlist.RemoveDuplicatesFromSortedListE.ListNode;
 
 /**
  * Remove all elements from a linked list of integers that have value val.

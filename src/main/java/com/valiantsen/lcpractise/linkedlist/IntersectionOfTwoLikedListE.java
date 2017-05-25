@@ -1,6 +1,5 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
-import main.java.com.valiantsen.lcpractise.linkedlist.RemoveDuplicatesFromSortedListE.ListNode;
 
 /**
  * Write a program to find the node at which the intersection of two singly linked lists begins.

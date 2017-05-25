@@ -1,6 +1,5 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
-import main.java.com.valiantsen.lcpractise.linkedlist.RemoveDuplicatesFromSortedListE.ListNode;
 
 /**
  * Reverse a singly linked list.
