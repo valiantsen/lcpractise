@@ -1,6 +1,5 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
-import main.java.com.valiantsen.lcpractise.linkedlist.RemoveDuplicatesFromSortedListE.ListNode;
 
 /**
  * Given a linked list, determine if it has a cycle in it.
