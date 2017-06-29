@@ -1,6 +1,3 @@
-/**
- * Copyright (c) 2017, DiDiChuXing. All rights reserved.
- */
 package main.java.com.valiantsen.lcpractise.string;
 
 import java.util.ArrayList;

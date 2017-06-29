@@ -1,5 +1,4 @@
 /**
- * Copyright (c) 2017, DiDiChuXing. All rights reserved.
  */
 /**
  * @ClassName: package-info

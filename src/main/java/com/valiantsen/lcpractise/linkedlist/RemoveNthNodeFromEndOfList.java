@@ -1,5 +1,7 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
+
 /**
  * Given a linked list, remove the nth node from the end of list and return its head.
  * 

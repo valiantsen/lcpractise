@@ -1,9 +1,8 @@
 /**
- * Copyright (c) 2017, DiDiChuXing. All rights reserved.
  */
 package main.java.com.valiantsen.lcpractise.tree;
 
-import main.java.com.valiantsen.lcpractise.linkedlist.TreeNode;
+import main.java.com.valiantsen.lcpractise.struct.TreeNode;
 
 /**
  * Given a binary tree, determine if it is height-balanced.

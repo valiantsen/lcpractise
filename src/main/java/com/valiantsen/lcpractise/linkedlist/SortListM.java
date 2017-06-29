@@ -1,5 +1,7 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
+
 /**
  * Sort a linked list in O(n log n) time using constant space complexity.
  * 

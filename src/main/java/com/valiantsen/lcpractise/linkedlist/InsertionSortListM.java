@@ -1,5 +1,7 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
+
 /**
  * Sort a linked list using insertion sort.
  * 

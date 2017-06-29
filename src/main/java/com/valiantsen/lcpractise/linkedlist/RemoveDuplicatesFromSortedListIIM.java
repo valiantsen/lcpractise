@@ -1,5 +1,7 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
+
 /**
  * Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct
  * numbers from the original list.

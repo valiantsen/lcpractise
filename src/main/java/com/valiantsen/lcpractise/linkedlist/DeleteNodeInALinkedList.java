@@ -1,5 +1,6 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
 
 /**
  * Write a function to delete a node (except the tail) in a singly linked list, given only access to

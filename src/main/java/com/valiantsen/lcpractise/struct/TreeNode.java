@@ -1,4 +1,4 @@
-package main.java.com.valiantsen.lcpractise.linkedlist;
+package main.java.com.valiantsen.lcpractise.struct;
 
 public class TreeNode {
     public int val;
@@ -7,7 +7,7 @@ public class TreeNode {
 
     public TreeNode right;
 
-    TreeNode(int x) {
+    public TreeNode(int x) {
         val = x;
     }
 }

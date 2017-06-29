@@ -1,5 +1,7 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
+
 public class AddTwoNumbersM {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

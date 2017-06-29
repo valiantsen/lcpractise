@@ -1,5 +1,7 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
+
 /**
  * Given a sorted linked list, delete all duplicates such that each element appear only once.
  * 

@@ -1,5 +1,8 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
+import main.java.com.valiantsen.lcpractise.struct.TreeNode;
+
 /**
  * Given a singly linked list where elements are sorted in ascending order, convert it to a height
  * balanced BST.

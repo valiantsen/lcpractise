@@ -1,5 +1,6 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
 
 /**
  * Reverse a singly linked list.

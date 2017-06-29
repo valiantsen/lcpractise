@@ -1,5 +1,6 @@
 package main.java.com.valiantsen.lcpractise.linkedlist;
 
+import main.java.com.valiantsen.lcpractise.struct.ListNode;
 
 /**
  * Given a singly linked list, determine if it is a palindrome.
