@@ -2,6 +2,8 @@
  */
 package main.java.com.valiantsen.lcpractise.tree;
 
+import java.math.BigDecimal;
+
 import main.java.com.valiantsen.lcpractise.struct.TreeNode;
 
 /**
@@ -30,5 +32,10 @@ public class BalancedBinaryTreeE {
         if (node.left == null && node.right == null)
             return 1;
         return Math.max(1 + dept(node.left), 1 + dept(node.right));
+    }
+
+    public static void main(String[] args) {
+        String s = "0.0";
+        System.out.println(new BigDecimal(s).compareTo(BigDecimal.ZERO));
     }
 }

@@ -1,10 +1,11 @@
 package main.java.com.valiantsen.lcpractise.array;
 
+import main.java.com.valiantsen.lcpractise.struct.TreeNode;
+
 /**
  * Given inorder and postorder traversal of a tree, construct the binary tree.
  * 
- * Note:
- * You may assume that duplicates do not exist in the tree.
+ * Note: You may assume that duplicates do not exist in the tree.
  * 
  * @ClassName: ConstructBinaryTreeFromInorderAndPostorderTraversalM
  * @Description: TODO(这里用一句话描述这个类的作用)
@@ -40,13 +41,4 @@ public class ConstructBinaryTreeFromInorderAndPostorderTraversalM {
         return root;
     }
 
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 }
