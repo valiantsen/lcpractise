@@ -3,6 +3,7 @@ package main.java.com.valiantsen.lcpractise.linkedlist;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Iterator;
+import java.util.List;
 
 public class MergeIntervalsM {
     public List<Interval> merge(List<Interval> intervals) {
