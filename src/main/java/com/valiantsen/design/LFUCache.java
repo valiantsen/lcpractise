@@ -145,6 +145,7 @@ public class LFUCache {
             prev = next = null;
         }
     }
+
     /**
      * Your LFUCache object will be instantiated and called as such: LFUCache obj = new
      * LFUCache(capacity); int param_1 = obj.get(key); obj.put(key,value);
@@ -159,4 +160,5 @@ public class LFUCache {
      * following node, else create a new node and add it following the current node. All operations
      * are guaranteed to be O(1).
      */
+
 }

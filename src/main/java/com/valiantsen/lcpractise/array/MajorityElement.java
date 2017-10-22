@@ -4,10 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2
- * ⌋ times.
- * 
- * You may assume that the array is non-empty and the majority element always exist in the array.
+ * Given an array of size n, find the majority element. The majority element is the element that
+ * appears more than ⌊ n/2 ⌋ times. t You may assume that the array is non-empty and the majority
+ * element always exist in the array.
  * 
  * 
  * @ClassName: MajorityElement
@@ -18,8 +17,7 @@ import java.util.Map;
 public class MajorityElement {
 
     /**
-     * hashmap
-     * TODO
+     * hashmap TODO
      * 
      * @param nums
      * @return
@@ -39,8 +37,7 @@ public class MajorityElement {
     }
 
     /**
-     * majority vote algorithm
-     * TODO
+     * majority vote algorithm TODO
      * 
      * @param nums
      * @return

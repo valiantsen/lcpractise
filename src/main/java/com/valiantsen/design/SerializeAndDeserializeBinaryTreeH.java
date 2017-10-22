@@ -1,7 +1,9 @@
 package main.java.com.valiantsen.design;
 
 import java.util.LinkedList;
+import java.util.Map;
 import java.util.Queue;
+import java.util.concurrent.ConcurrentHashMap;
 
 import main.java.com.valiantsen.lcpractise.struct.TreeNode;
 
@@ -96,5 +98,6 @@ public class SerializeAndDeserializeBinaryTreeH {
         System.out.println(s);
         TreeNode root = a.deserialize(s);
         System.out.println(root.val);
+        Map<String, String> map = new ConcurrentHashMap<>();
     }
 }
